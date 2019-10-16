@@ -1,0 +1,3 @@
+com/ai/tinker/MainActivity.class
+com/ai/tinker/BaseActivity.class
+com/ai/tinker/BaseApplication.class
